@@ -1,4 +1,4 @@
-# DSA-Repo
-This is DSA Practice
+# Java-Repo
+This is Java Practice
 <br>
-Java DSA practice programs from Rushikesh
+Java practice programs from Rushikesh
